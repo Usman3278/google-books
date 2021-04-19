@@ -18,13 +18,10 @@ A React-based Google Books Search app using Node.js, Express and MongoDB.
 https://www.linkedin.com/in/muhammad-usman-22294b1b8/
 
 # Link to my GitHub Profile
-https://github.com/Usman3278/reactportfolio
+https://github.com/Usman3278/google-books
 
 # Heroku Deploy Link: 
+https://tranquil-thicket-37567.herokuapp.com/
 
-
-Screenshots:
-
-
-
+# Screenshots:
 
