@@ -1,0 +1,14 @@
+.delete {
+  background-color: #ec2f1e;
+  color: #FFFFFF
+}
+
+.view {
+  background-color: #f1d36e;
+}
+
+.card {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #833f39
+}
