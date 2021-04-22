@@ -11,12 +11,12 @@ User has an option to "Delete" a book, removing it from the Mongo database.
 # Technologies Used
 
 * React
-* ES6
-* JSX
-* CSS 3
-* Bootstrap 4
+* Axios
+* Heroku
+* CSS 
+* Bootstrap 
 * Node.js
-* Express
+* Javascript
 
 # Deployment
 
